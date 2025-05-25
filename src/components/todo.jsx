@@ -140,6 +140,3 @@ const Todo = () => {
 }
 
 export default Todo
-// jabmdak
-// adbkadkad
-// aksjdnakndakndaksdnaskdnaskdw
